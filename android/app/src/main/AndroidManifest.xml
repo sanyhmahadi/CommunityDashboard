@@ -10,7 +10,7 @@
         android:label="earthquake_app"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-                   android:value="AIzaSyAKFwzlcGyHasLFUrrwkS61s5BcBcQKhY4"/>  <!-- this line are for passing google map api key-->
+                   android:value=""/>  <!-- this line are for passing google map api key-->
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
